@@ -1,0 +1,11 @@
+:root {
+  --bg: #12161c;
+  --ink: #f4ecdf;
+  --muted: #cbbfae;
+  --line: #303844;
+  --accent: #d4b483;
+  --accent-ink: #1b150d;
+  --paper: #1c232c;
+}
+body { background: radial-gradient(circle at top, #1d2632, #12161c 46%); }
+.button.secondary { color: var(--ink); }

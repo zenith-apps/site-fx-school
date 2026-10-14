@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://znted0a26.tokyo/sitemap.xml
